@@ -1,2 +1,2 @@
 # LearningGit
-This is a repo for SCC Practical
+This is a repo for SCC Practical testing
